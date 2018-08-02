@@ -1,6 +1,6 @@
 # ByteScout-Document-Parser-SDK-C-Parse-with-OCR
 ByteScout Document Parser SDK – C# – Parse with OCR
-
+```
 using System;
 using ByteScout.DocumentParser;
  
@@ -48,3 +48,4 @@ namespace ParseWithOCR
         }
     }
 }
+```
